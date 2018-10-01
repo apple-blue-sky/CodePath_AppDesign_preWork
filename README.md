@@ -7,7 +7,7 @@ Pre work for CodePath APP design course
 Fellow the demo video to play with xcode
 
 ### App Walk-though
-
+file:///Users/joywang/Desktop/CodePath_preWork.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
